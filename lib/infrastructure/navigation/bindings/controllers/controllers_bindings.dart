@@ -1,0 +1,1 @@
+export 'package:getx_demo/infrastructure/navigation/bindings/controllers/home2.controller.binding.dart'; 

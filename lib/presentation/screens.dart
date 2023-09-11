@@ -1,0 +1,1 @@
+export 'package:getx_demo/presentation/home2/home2.screen.dart';
